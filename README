@@ -1,0 +1,16 @@
+
+Introduction
+-------------
+sententia helps you perform polls/surveys even in (near) real time to quickly find
+out the options of a crowd, be it a mentometer in an auditorium or an intranet poll. 
+Based on an API to enable other your own applications to access simple web interface
+
+This is work in progress to at least initially experiment with concurrency technologies
+on web and backend.
+
+
+
+
+Development
+---------------
+Make sure you have environment setup, follow tips in http://devcenter.heroku.com/articles/scala
